@@ -1,0 +1,13 @@
+Codebook.md
+
+# Codebook for Tidy Data Set
+
+## Variables
+- **subject**: The ID of the subject being monitored.
+- **activity**: The activity being performed (e.g., WALKING, WALKING_UPSTAIRS).
+- **tBodyAcc-mean()-X**: Mean value of the body acceleration in the X direction.
+- **tBodyAcc-mean()-Y**: Mean value of the body acceleration in the Y direction.
+- **...** (Continue for all variables)
+
+## Data Collection
+The data was collected using smartphones equipped with accelerometers.
